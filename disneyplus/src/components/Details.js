@@ -140,4 +140,5 @@ const Description = styled.div`
   font-size: 20px;
   margin-top: 16px;
   min-height: 20px;
+  max-width: 750px;
 `;
